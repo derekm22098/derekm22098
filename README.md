@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing data for GRLevelX Software.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on making big money.
-- 📫 derekm22098 at google mail.
+- 📫 https://www.FreeLightning.com
 
 <!---
 derekm22098/derekm22098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
