@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @derekm22098
+- 👋 Hi, I’m Derek
 - 👀 I’m interested in developing Software for Severe Weather (Tornadoes, Hail, Lightning) & GRLevelX/WSV3 Placefiles.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on making big money.
