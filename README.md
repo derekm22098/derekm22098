@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Derek (Owner of GRLevelXMods)
+- 👋 Hi, I’m Derek (Owner of FreeLightning.com & GRLevelXMods.com)
 - ⛈️ I’m interested in developing Software for Severe Weather (Tornadoes, Hail, Lightning). 
 - 🛠️ Creating plugins & placfiles for GRLevelX & WSV3 Software.
 - 🏠 https://www.FreeLightning.com
